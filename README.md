@@ -23,3 +23,24 @@ Distributed database that maintains a continuously-growing list of ordered recor
 [HN discussion](https://news.ycombinator.com/item?id=12571287)
 
 
+Alt-H2
+------
+27 Big Industries Where Blockchain Could Be Used
+
++ Banking -  Vault OS, 
++ Payments and money transfers - Abra
++ Cybersecurity - Guardtime
++ Authenticating educational documents - [Holberton](http://www.marketwired.com/press-release/holberton-school-authenticate-its-academic-certificates-with-bitcoin-blockchain-2065768.htm), [Bitproof](bitproof.io)
++ Voting - Follow my vote
++ Car leasing and sales - Visa/DocuSign
++ Networking and IoT - CoinDesk
++ Forecasting - Augur 
++ Online music - PeerTracks, Mycelia, Ujo music
++ Ride sharing -  La’Zooz
++ Stock trading - Chain
++ Real estate - Ubitquity 
++ Insurance - Stratumn, Lemonway
++ 
++ 
++ 
++ 
