@@ -30,7 +30,7 @@ Alt-H2
 + Banking -  Vault OS, 
 + Payments and money transfers - Abra
 + Cybersecurity - Guardtime
-+ Authenticating educational documents - [Holberton](http://www.marketwired.com/press-release/holberton-school-authenticate-its-academic-certificates-with-bitcoin-blockchain-2065768.htm), [Bitproof](bitproof.io)
++ Authenticating educational documents - [Holberton](http://www.marketwired.com/press-release/holberton-school-authenticate-its-academic-certificates-with-bitcoin-blockchain-2065768.htm), [Bitproof](https://bitproof.io/)
 + Voting - Follow my vote
 + Car leasing and sales - Visa/DocuSign
 + Networking and IoT - CoinDesk
@@ -40,7 +40,17 @@ Alt-H2
 + Stock trading - Chain
 + Real estate - Ubitquity 
 + Insurance - Stratumn, Lemonway
-+ 
-+ 
-+ 
-+ 
++ Healthcare - [Gem](https://gem.co/), [Thierion](https://tierion.com/), [Philips](http://www.2.forms.healthcare.philips.com/blockchainlabs)
++ Supply Chain Management, Contracts  - [Provenance](https://www.provenance.org/), [Fluent](https://www.netspective.com/fluent/), [Skuchain](https://www.skuchain.com/)
++ Cloud storage - [Storj](https://storj.io/)
++ Energy management
++ Sports management
++ Gift cards and loyalty programs
++ Government and public benefits  
++ Gun tracking
++ Wills ad inheritances
++ Retail
++ Charity - [BitGive Foundation](http://bitgivefoundation.org/)
++ Law Enforcement
++ Human Resources
++ Ride Hailing - [Arcade city](https://arcade.city/)
