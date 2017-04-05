@@ -1,4 +1,4 @@
-####BLOCKCHAIN
+#### BLOCKCHAIN
 Distributed database that maintains a continuously-growing list of ordered records called blocks
 
 [Building the minimum viable block chain:](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
@@ -39,7 +39,7 @@ Distributed database that maintains a continuously-growing list of ordered recor
 + Stock trading - Chain
 + Real estate - Ubitquity 
 + Insurance - Stratumn, Lemonway
-+ Healthcare - [Gem](https://gem.co/), [Thierion](https://tierion.com/), [Philips](http://www.2.forms.healthcare.philips.com/blockchainlabs)
++ Healthcare - [Gem](https://gem.co/), [Thierion](https://tierion.com/), [MedRec](https://www.media.mit.edu/research/groups/1454/medrec), [Philips](http://www.2.forms.healthcare.philips.com/blockchainlabs)
 + Supply Chain Management, Contracts  - [Provenance](https://www.provenance.org/), [Fluent](https://www.netspective.com/fluent/), [Skuchain](https://www.skuchain.com/)
 + Cloud storage - [Storj](https://storj.io/)
 + Energy management - [Transactive Grid](http://transactivegrid.net/)
