@@ -1,0 +1,36 @@
+
+ // Balances for each account
+ mapping(address => uint256 ) balances ;
+ // Owner of account approves the transfer of an amount to another account
+ mapping(address => mapping (address => uint256 )) allowed;
+ // other fields omitted
+ ...
+ // Allow spender to withdraw from your account , multiple times , up to the amount.
+ function approve(address spender, uint amount) public returns (bool success ) {
+ allowed[msg.sender][spender] = amount; // alter approval
+ Approval(msg.sender, spender, amount); // blockchain event
+ return true;
+ }
+ function allowance(address tokenOwner, address spender) public returns ( uint remaining) {
+ return allowed[tokenOwner][spender];
+ }
+ function transferFrom(address from, address to , uint tokens) public (bool success ) {
+ balances[from] = balances[from].sub(tokens );
+ allowed[from][msg.sender] = allowed[from][msg.sender].sub(tokens );
+ balances[to] = balances[to ]. add(tokens );
+ Transfer (from, to , tokens );
+ return true;
+ }
+ ... // other functions omitted
+ }
+
+// Token example
+ class Counter {
+ private int counter ;
+ public void dec () {
+ int temp = counter ;
+ temp = temp + 1;
+ counter = temp;
+ }
+ ...
+ }
