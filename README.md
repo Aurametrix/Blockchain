@@ -1,7 +1,9 @@
 #### BLOCKCHAIN
 Distributed database that maintains a continuously-growing list of ordered records called blocks
 
-[Building the minimum viable block chain:](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
+[Building the minimum viable block chain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
+
+[Building for the blockchain](https://blog.ycombinator.com/building-for-the-blockchain/)
 
 [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
@@ -53,3 +55,7 @@ Distributed database that maintains a continuously-growing list of ordered recor
 + Law Enforcement
 + Human Resources
 + Ride Hailing - [Arcade city](https://arcade.city/)
+
+
+[Sia, Blockchain-based file storage](https://sia.tech/)
+[Bitmain, ASIC miner](https://www.bitmain.com)
