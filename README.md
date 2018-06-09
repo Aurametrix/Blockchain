@@ -7,6 +7,8 @@ Distributed database that maintains a continuously-growing list of ordered recor
 
 [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
+[The original Bitcoin white paper](https://nakamotoinstitute.org/bitcoin/)
+
 [Bitcoin in full node](https://bitcoin.org/en/full-node)
 
 [the original blockchain article:](http://szabo.best.vwh.net/securetitle.html)
@@ -34,7 +36,7 @@ Distributed database that maintains a continuously-growing list of ordered recor
 + Authenticating educational documents - [Holberton](http://www.marketwired.com/press-release/holberton-school-authenticate-its-academic-certificates-with-bitcoin-blockchain-2065768.htm), [Bitproof](https://bitproof.io/)
 + Voting - Follow my vote
 + Car leasing and sales - Visa/DocuSign
-+ Networking and IoT - CoinDesk
++ Networking and IoT - CoinDesk // see [Blockchain and IoT](https://dl.acm.org/citation.cfm?id=3209391) 2018 white paper
 + Forecasting - Augur 
 + Online music - PeerTracks, Mycelia, Ujo music
 + Ride sharing -  La’Zooz
@@ -57,5 +59,5 @@ Distributed database that maintains a continuously-growing list of ordered recor
 + Ride Hailing - [Arcade city](https://arcade.city/)
 
 
-[Sia, Blockchain-based file storage](https://sia.tech/)
-[Bitmain, ASIC miner](https://www.bitmain.com)
++ [Sia, Blockchain-based file storage](https://sia.tech/)
++ [Bitmain, ASIC miner](https://www.bitmain.com)
