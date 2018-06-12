@@ -57,6 +57,9 @@ Distributed database that maintains a continuously-growing list of ordered recor
 + Law Enforcement
 + Human Resources
 + Ride Hailing - [Arcade city](https://arcade.city/)
++ News - [Civil](https://joincivil.com/)
++ Waste management - [Waltonchain]()
++ Border control - [Essentia]90
 
 
 + [Sia, Blockchain-based file storage](https://sia.tech/)
