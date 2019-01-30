@@ -1,0 +1,27 @@
+{
+  // Server public key
+  "sourceAccount": "GCWHSK5KNLKB77NAEA3CKDKLY5GTMNKHXQRPUF6STZOD3J6VYVVZNBRV",
+  // Invalid sequence number: prevents transaction from real execution
+  "seqNum": 0,
+  // Challenge is valid within this time limits to prevent replay attacks,
+  // say, time of request + 5 minutes
+  "timeBounds": {
+    "minTime": 1547346533168,
+    "maxTime": 1547346533468
+  },
+  "operations": [
+    {
+      "type": "manageData",
+      // Client public key
+      "sourceAccount": "GAZQFKRTG2LBDG5ARWL4MZ2QLNVZYQHRR7K7RPH2BQAPTSF7MXOMVWXO",
+      // Service name
+      "name": "Sample auth",
+      // Random sequence to make challenges requested simultaneously
+      // have different XDR's
+      "value": "75d1e919612acdcc161fbe675eead56f995a9c12b58d591104cb272ae0b7ec75"
+    }
+  ],
+  "signatures": [
+    // [0] is signed with server private key
+  ]
+}
